@@ -1,16 +1,25 @@
-## Hi there 👋
+# Shalom Arhebamen
+## Software Engineer | Python Developer
 
-<!--
-**arhebs/arhebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Software Engineering graduate (Summa Cum Laude) with experience in API automation. Currently exploring the intersection of automation and artificial intelligence while developing practical solutions for browser automation at Indigo.
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Primary Language:** Python
+- **Focus Areas:** API Automation, Browser Automation
+- **Interested In:** Machine Learning, AI Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Work
+- Developing API automation scripts for bulk actions in antidetect browser environments
+- Building efficient solutions for browser automation at Indigo
+- Exploring machine learning and AI technologies
+
+### 🌱 Learning & Growth
+Currently expanding my Python ecosystem knowledge and diving into AI/ML technologies. Open to collaboration on interesting projects in these areas.
+
+### 📫 Contact
+- Email: arhebs@outlook.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhebs)
+
+---
+*"Building tomorrow's solutions through code"*
