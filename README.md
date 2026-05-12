@@ -1,90 +1,30 @@
-# Hi, I'm Shalom 👋
+# Shalom Arhebamen
 
-**Backend engineer focused on building and operating cloud-native APIs, with growing skills in DevOps and AI-powered features.**
+Backend / Platform Engineer working on AI-agent infrastructure at Worken.
 
-- 🔭 Currently building **ToggleCraft** – a feature flag platform for safe, progressive deployments (LaunchDarkly-lite).
-- 🌩️ Interested in **cloud-native architectures, DevOps, and platform engineering**.
-- 🤖 Learning to integrate **LLM/AI features** into backend systems in a practical, non-gimmicky way.
-- 🌍 Open to backend roles in **Russia → Poland → EU/US/Australia** (remote or relocation).
+I build backend systems around AI products: workflow runtime, integrations, internal APIs, CI/CD, observability, and production infrastructure.
 
----
+## Current Focus
 
-## 🔧 Tech I work with
+- Worken AI: workflow execution, memory, semantic recall, integrations, internal APIs, PR previews, CI/CD, health/status systems, and observability.
+- Platform reliability: Docker, Kubernetes, Traefik, GitHub Actions, OpenTelemetry, Grafana, Loki, Tempo, Prometheus, alerts, and runbooks.
+- Developer-facing systems: API integrations, browser automation support, reproducible debugging, and clear technical documentation.
 
-- **Languages:** Python (primary), TypeScript (familiar)
-- **Backend:** FastAPI, Django, REST APIs, background jobs
-- **Data & Storage:** PostgreSQL, Redis, S3-compatible object storage
-- **Cloud & DevOps:** Docker, Docker Compose, GitHub Actions, AWS (ECS/RDS/S3), Terraform (learning)
-- **Practices:** CI/CD, feature flags, safe rollouts, observability basics (logging, metrics, health checks)
+## Stack
 
----
+TypeScript, Bun, Hono, React/Next.js, Prisma, PostgreSQL, Docker, Kubernetes, GitHub Actions, OpenTelemetry, Grafana/Loki/Tempo/Prometheus, Go, Python, FastAPI, Django, Playwright, Selenium, Puppeteer, REST APIs, MCP, OpenAI, OpenRouter.
 
-## 🏗 Highlighted projects
+## Selected Repositories
 
-> I’m actively building out a backend + DevOps + AI portfolio. Start with these:
+- [next-bun-threaded-chat](https://github.com/arhebs/next-bun-threaded-chat) - ChatGPT-style threaded chat with persistent conversations, spreadsheet tools, confirmation-gated writes, and Playwright coverage.
+- [tg-group-analytics-bot](https://github.com/arhebs/tg-group-analytics-bot) - Telegram group analytics bot and web UI using TypeScript, Telegraf, Next.js, PostgreSQL, Redis, Gemini, Docker, and Vitest.
+- [deribit-index-price-history-api](https://github.com/arhebs/deribit-index-price-history-api) - FastAPI + Celery service that ingests Deribit BTC/ETH index prices into PostgreSQL and exposes historical time-series APIs.
+- [django-celery-payouts](https://github.com/arhebs/django-celery-payouts) - Django/DRF/Celery payout API with PostgreSQL, Redis, Docker, pytest, mypy, Ruff, and GitHub Actions.
+- [custom-rbac-backend](https://github.com/arhebs/custom-rbac-backend) - Django/DRF backend with JWT auth, Redis token blocklist, and DB-backed RBAC over article resources.
+- [epoll-echo](https://github.com/arhebs/epoll-echo) - Single-process epoll-based TCP/UDP echo server with Debian packaging and systemd integration.
 
-### 🚩 ToggleCraft – Feature Flag Management Service
-
-A cloud-native feature flag platform for safe, progressive deployments and controlled rollouts.
-
-- Multi-tenant projects, environments, and flags
-- Snapshot API for low-latency flag evaluation
-- Admin control-plane REST API + Python CLI
-- Dockerized local stack (FastAPI + PostgreSQL + Redis)
-- CI pipeline with tests on every push
-
-➡️ Repo: _coming soon_  
-
----
-
-### 💸 ExpenseEase AI – Smart Expense Tracker API
-
-An AI-powered expense processing API that turns uploaded receipts into structured financial data using OCR + LLMs.
-
-- File upload API for receipt images/PDFs
-- Storage in S3 + structured records in PostgreSQL
-- Background workers for async processing of receipts
-- Integration with OpenAI / Textract-style services for extraction
-- Designed with validation, error handling, and safe retries
-
-➡️ Repo: _coming soon_  
-
----
-
-### 📡 SitePulse – Uptime Monitoring & Alerts
-
-An uptime and alerting service that continuously probes URLs, stores results, and triggers alerts when services go down.
-
-- API to register services and inspect check history
-- Background workers to run scheduled health checks in parallel
-- Alerting via email/webhooks on failures
-- Metrics, logging, and health endpoints for observability
-- Multi-container setup (API + worker) with Docker Compose
-
-➡️ Repo: _coming soon_  
-
----
-
-## 🔭 Upcoming projects (roadmap)
-
-These are planned follow-up projects that build on the same backend + DevOps + AI stack:
-
-- **InsightHub AI** – Knowledge base Q&A service using embeddings, vector search, and LLMs for “ChatGPT over your documents”.
-- **PullRequest Guru** – AI-powered GitHub code review bot that listens to webhooks and posts review comments on pull requests.
-- **TelemetryHub** – IoT telemetry pipeline with stream processing, anomaly detection, and a scalable ingest/query architecture.
-
----
-
-## 🧠 What I’m focusing on right now
-
-- Designing **production-style architectures** for backend services, not just toy apps
-- Getting comfortable with **AWS + Docker + Terraform** for realistic deployments
-- Building a **feature-flag platform** I can use across my own projects
-- Leveling up from early-career backend dev → **mid-level backend/platform engineer**
-
----
-
-## 📫 Contact
+## Contact
 
 - Email: `arhebs@outlook.com`
+- Telegram: `@arhebs`
 - GitHub: [@arhebs](https://github.com/arhebs)
